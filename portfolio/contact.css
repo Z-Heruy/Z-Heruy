@@ -1,0 +1,105 @@
+.contact
+{
+    display: block;
+     text-align: center;
+     margin: 30px;
+
+}
+.footer
+{
+   position: relative;
+   top:100px;
+
+   background-color: rgb(7, 7, 80);
+   width: 90vw;
+   height: 30%;
+   color: white;
+   text-align: center;
+}
+.footer a
+{
+    color: white;
+    margin: 20px;
+    font-size: 2em;
+}
+.footer .footer__title
+{
+    font-size: 2rem;
+   
+}
+.contact .section-title
+{
+    margin: 30px;
+    color:rgb(7, 7, 80);
+    text-decoration: underline;
+    font-size: 2em;
+}
+.contact__input
+ {
+    margin: 15px;
+    height: 30px;
+    width: 200px;
+    text-align: center;
+ }
+ .contact textarea
+ {
+    height: 80px;
+ }
+ .contact .contact__button  
+ {
+    padding: 5px 10px;
+    background-color:rgb(7, 7, 80); 
+    color: white;
+    transition: padding .5s;
+    font-size: 1.5rem;
+ 
+ }
+ .contact .contact__button:hover
+ {
+    padding: 10px 20px;
+    cursor: pointer;
+ }
+.contact .back
+{
+   position: relative;
+   left: 10%;
+   display: inline;
+   background-color:rgb(7, 7, 80); 
+   color:white;
+   float: left;
+   transition: padding .5s;
+  
+   
+
+}
+.contact .back:hover
+ {
+    padding: 10px 20px;
+    cursor: pointer;
+ }
+ 
+  
+ 
+ @media  only screen and (max-width:800px) 
+ {
+   .contact__input,.contact__button,.section-title
+   {
+      display: flex;
+      justify-content: flex-start;
+      align-items: flex-start;
+   }
+   .contact .back
+   {
+      position: relative;
+      top: 0px;
+      
+   }
+   .footer_icon
+   {
+      display: flex;
+      justify-content: flex-start;
+      align-items: flex-start;
+      flex-direction: column;
+   }
+
+ }  

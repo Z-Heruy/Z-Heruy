@@ -1,0 +1,17 @@
+/* Colors are specified using predefined color names, or RGB, HEX, HSL, RGBA, HSLA values. */
+/* /* CSS Text Color normal vale */
+
+ p{
+    color: aqua;
+    
+ }
+ /* /* CSS Text Color rgb value */
+ p{
+    color:rgb(red, green, blue)
+    
+ }
+  /* /* CSS Text Color hex value */
+ p{
+    color: #ff33dd;
+    
+ }

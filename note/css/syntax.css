@@ -1,0 +1,12 @@
+/* use css internaly and externaly
+  internaly inside html 
+<style>
+p{
+    text-align: center;
+    font-size: 16px;
+}
+</style>
+ EXTERNALLY inside html 
+<.link re="stylesheet" href="yyour css path"
+
+*/

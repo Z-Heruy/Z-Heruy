@@ -1,0 +1,27 @@
+/* padding */
+/* for individual side */
+p{
+    padding-bottom: 0in;
+    padding-top: 2px;
+    padding-right: 2px;
+    padding-left: 2cm;
+}
+/* for all sidel side */
+img
+{
+ padding: 0in;
+}
+/* margine */
+/* for individual side */
+p{
+    margin-bottom: 0in;
+    margin-top: 2px;
+    margin-right: 2px;
+    margin-left: 2cm;
+}
+/* for all sidel side */
+img
+{
+    margin: 0in;
+
+}

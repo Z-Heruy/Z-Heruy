@@ -1,0 +1,24 @@
+/* w3 school
+We can divide CSS selectors into five categories:
+
+Simple selectors (select elements based on name, id, class)
+Combinator selectors (select elements based on a specific relationship between them)
+Pseudo-class selectors (select elements based on a certain state)
+Pseudo-elements selectors (select and style a part of an element)
+Attribute selectors (select elements based on an attribute or attribute value)
+ */
+ /* element selector */
+ p {
+    text-align: center;
+    color: red;
+  }
+  /* id selectoor */
+  #para1 {
+    text-align: center;
+    color: red;
+  }
+  /* class selector */
+  .center {
+    text-align: center;
+    color: red;
+  }

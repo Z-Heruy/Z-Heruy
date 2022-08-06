@@ -1,0 +1,12 @@
+/* border is one of the nost importane css element */
+/* for individual side */
+p{
+    border-bottom: 0in;
+    border-top: 2px;
+    border-right: 2px;
+    border-left: 2cm;
+}
+/* for all sidel side */
+p{
+    border: 2px;
+}
